@@ -1,3 +1,4 @@
+![monochrome_icon](https://user-images.githubusercontent.com/64918749/126923777-91dce842-a09a-4f33-8d24-ad533bde72be.png)
 # Monochrome
 
 -----------------------------------------------------------------------------
